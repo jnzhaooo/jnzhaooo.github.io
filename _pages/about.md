@@ -13,5 +13,5 @@ redirect_from:
 * I was born in 1997, Shanxi Province, China. I grew up in Changzhi.
 * I am broadly interested in system control and formal methods. My current research interests include the following aspects:
   * Formal verification and synthesis of cyber-physical systems
-  * Game-Theoretical Decision-Making in Dynamic Environments
+  * Game-theoretical decision-making in dynamic environments
   * Distributed control of multi-agent systems
