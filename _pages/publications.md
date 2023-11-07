@@ -12,3 +12,11 @@ author_profile: true
 4. **J. Zhao**, X. Yu and H. Wang. "[Bearing-only formation tracking control of multi-agent systems with local reference frames and constant-velocity leaders](https://ieeexplore.ieee.org/document/9108215)." **IEEE Control Systems Letters**, vol. 5, no. 1, pp. 1–6, Jan. 2021.
 
 <br />
+
+
+<h4>Conference Papers</h4>
+1. **J. Zhao**, K. Zhu, S. Li and X. Yin. "To explore or not to explore: Regret-based LTL planning in partially-known environments." **22nd IFAC World Congress**, pp. 12171-12177, 2023.
+2. **J. Zhao**, S. Shu and X. Yin. "Failure-aware self-diagnostic task planning under temporal logic specifications." **22nd IFAC World Congress**, pp. 4993-4999, 2023.
+3. **J. Zhao**, K. Zhu, X. Yu and H. Wang. "Distributed rendezvous control of networked uncertain robotic systems with bearing measurements." **IEEE International Conference on Robotics and Automation**, pp. 8829–8835, 2021.
+
+<br />
