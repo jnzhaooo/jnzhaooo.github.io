@@ -5,14 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h4>Ongoing Works</h4>
-1. To explore or not to explore: Regret-based LTL planning in partially-known environments
-2. Motion planning of dynamical systems using hyperproperties for signal temporal logics
-3. Semantic-dependence-aided exploration in initially unknown environments under temporal logic specifications
-4. Sleep when everything looks fine: Self-triggered monitoring for signal temporal logic tasks
-
-<br />
-
 <h4>Jounal Papers</h4>
 1. **J. Zhao**, S. Li and X. Yin. "A unified framework for verification of observational properties for partially-observed discrete-event systems." ***IEEE Transactions on Automatic Control***, conditionally accepted, 2023. [[PDF]](https://arxiv.org/pdf/2205.01392.pdf)
 2. **J. Zhao**, K. Zhu, H. Hu, X. Yu, X. Li and H. Wang. "Formation control of networked mobile robots with unknown reference orientation." ***IEEE/ASME Transactions on Mechatronics***, vol. 28, no. 4, pp. 2200–2212, Aug. 2023. [[PDF]](http://jnzhaooo.github.io/files/23TMech.pdf)
@@ -26,5 +18,14 @@ author_profile: true
 1. **J. Zhao**, K. Zhu, S. Li and X. Yin. "To explore or not to explore: Regret-based LTL planning in partially-known environments." ***22nd IFAC World Congress***, pp. 12171-12177, 2023. [[PDF]](http://jnzhaooo.github.io/files/23IFAC-regret.pdf)
 2. **J. Zhao**, S. Shu and X. Yin. "Failure-aware self-diagnostic task planning under temporal logic specifications." ***22nd IFAC World Congress***, pp. 4993-4999, 2023. [[PDF]](http://jnzhaooo.github.io/files/23IFAC-diag.pdf)
 3. **J. Zhao**, K. Zhu, X. Yu and H. Wang. "Distributed rendezvous control of networked uncertain robotic systems with bearing measurements." ***IEEE International Conference on Robotics and Automation***, pp. 8829–8835, 2021. [[PDF]](http://jnzhaooo.github.io/files/21ICRA.pdf)
+
+<br />
+
+
+<h4>Ongoing Works</h4>
+1. To explore or not to explore: Regret-based LTL planning in partially-known environments
+2. Motion planning of dynamical systems using hyperproperties for signal temporal logics
+3. Semantic-dependence-aided exploration in initially unknown environments under temporal logic specifications
+4. Sleep when everything looks fine: Self-triggered monitoring for signal temporal logic tasks
 
 <br />
