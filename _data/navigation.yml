@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "Biography"
-    url: /bio/ 
-
   - title: "Publications"
     url: /publications/
+    
+  - title: "Biography"
+    url: /bio/ 
     
   - title: "Talks"
     url: /talks/   
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Misc"
+    url: /misc/
         
