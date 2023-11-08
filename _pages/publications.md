@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 <h4>Ongoing Works</h4>
-1. **J. Zhao**, K. Zhu, M. Feng and X. Yin. "To explore or not to explore: Regret-based LTL planning in partially-known environments."
-2. **J. Zhao**, B. Ye and X. Yin. "Motion planning of dynamical systems using hyperproperties for signal temporal logics." 
-3. K. Zhu, **J. Zhao** and X. Yin. "Semantic-dependence-aided exploration in initially unknown environments under temporal logic specifications." 
-4. C. Wang, X. Yu, **J. Zhao** and X. Yin. "Sleep when everything looks fine: Self-triggered monitoring for signal temporal logic tasks." 
+1. **J. Zhao**, K. Zhu, M. Feng and X. Yin.  
+"To explore or not to explore: Regret-based LTL planning in partially-known environments."
+2. **J. Zhao**, B. Ye and X. Yin.  
+"Motion planning of dynamical systems using hyperproperties for signal temporal logics." 
+3. K. Zhu, **J. Zhao** and X. Yin.  
+"Semantic-dependence-aided exploration in initially unknown environments under temporal logic specifications." 
+4. C. Wang, X. Yu, **J. Zhao** and X. Yin.  
+"Sleep when everything looks fine: Self-triggered monitoring for signal temporal logic tasks." 
 
 <br />
 
