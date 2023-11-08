@@ -18,4 +18,5 @@ author_profile: true
 **Distributed rendezvous control of networked uncertain robotic systems with bearing measurements**
 
 1. 59th IEEE Conference on Decision and Control (CDC), remote, Dec 2020  
-**Bearing-only formation tracking control of multi-agent systems with local reference frames and constant-velocity leaders**
+**Bearing-only formation tracking control of multi-agent systems with local reference frames
+and constant-velocity leaders**
