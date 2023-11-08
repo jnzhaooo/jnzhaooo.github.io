@@ -16,4 +16,5 @@ Academic Services
   * Transactions of the Institute of Measurement and Control
   * American Control Conference
   * IEEE Conference on Decision and Control
+  * IFAC World Congress
 
