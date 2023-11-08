@@ -17,6 +17,7 @@ Education
 
 * **University of Science and Technology of China** <span style="float:right">Hefei, China</span>
   * School of Information Science and Technology <span style="float:right">Sept 2015 - June 2019</span>
+  * B.Eng in Automation
 
 
 Teaching
