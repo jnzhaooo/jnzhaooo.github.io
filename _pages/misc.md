@@ -14,7 +14,11 @@ Academic Services
   * IEEE Transactions on Cybernetics
   * IEEE Control Systems Letters
   * Transactions of the Institute of Measurement and Control
+  * IFAC World Congress
   * American Control Conference
   * IEEE Conference on Decision and Control
-  * IFAC World Congress
+  * IEEE Conference on Automation Science and Engineering
+ 
+* **Conference Services**
+  * Co-chair of session "Multiple and Distributed Systems VI" of ICRA 2021
 
