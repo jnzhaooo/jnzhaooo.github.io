@@ -20,5 +20,5 @@ Academic Services
   * IEEE Conference on Automation Science and Engineering
  
 * **Conference Services**
-  * Co-chair of session "Multiple and Distributed Systems VI" of ICRA 2021
+  * Co-chair for session "Multiple and Distributed Systems VI" of ICRA 2021
 
