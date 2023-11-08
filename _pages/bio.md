@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Biography"
 permalink: /bio/
 author_profile: true
 ---
