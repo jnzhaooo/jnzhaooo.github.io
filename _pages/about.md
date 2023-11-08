@@ -15,3 +15,4 @@ redirect_from:
   * Formal verification and synthesis of cyber-physical systems
   * Game-theoretical decision-making in dynamic environments
   * Distributed control of multi-agent systems
+* Here is my [resume](https://en.sjtu.edu.cn/) and you are welcome to contact me via Email: <a href="mailto:jnzhao@sjtu.edu.cn">jnzhao@sjtu.edu.cn</a>
