@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h4>Preprints</h4>
-1. **J. Zhao**, K. Zhu, M. Feng and X. Yin. "To explore or not to explore: Regret-based LTL planning in partially-known environments" [[PDF]](https://arxiv.org/pdf/2204.00268.pdf)
+1. **J. Zhao**, K. Zhu, M. Feng and X. Yin. "To explore or not to explore: Regret-based LTL planning in partially-known environments" (journal version) [[PDF]](https://arxiv.org/pdf/2204.00268.pdf)
 1. C. Chu, X. Yu, **J. Zhao**, L. Lindemann and X. Yin. "Sleep when everything looks fine: Self-triggered monitoring for signal temporal logic tasks." [[PDF]](https://arxiv.org/pdf/2311.15531.pdf)
 
 <br />
