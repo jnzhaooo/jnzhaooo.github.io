@@ -11,13 +11,6 @@ author_profile: true
 
 <br />
 
-<h4>Ongoing Works</h4>
-
-1. Motion planning of dynamical systems using hyperproperties for signal temporal logics
-1. Semantic-dependence-aided exploration in initially unknown environments under temporal logic specifications
-
-<br />
-
 
 <h4>Papers</h4>
 1. **J. Zhao**, S. Li and X. Yin. "A unified framework for verification of observational properties for partially-observed discrete-event systems." ***IEEE Transactions on Automatic Control***, accepted and in press, 2024. [[PDF]](https://arxiv.org/pdf/2205.01392.pdf)
@@ -31,4 +24,9 @@ author_profile: true
 <br />
 
 
+<h4>Ongoing Works</h4>
 
+1. Motion planning of dynamical systems using hyperproperties for signal temporal logics
+1. Semantic-dependence-aided exploration in initially unknown environments under temporal logic specifications
+
+<br />
