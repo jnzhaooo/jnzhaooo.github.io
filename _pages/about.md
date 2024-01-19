@@ -17,5 +17,3 @@ redirect_from:
   * Distributed control of multi-agent systems
 * Here is my [resume](http://jnzhaooo.github.io/files/CV_ZJN.pdf) and you are welcome to contact me via E-mail: <a href="mailto:jnzhao@sjtu.edu.cn">jnzhao@sjtu.edu.cn</a>.
 
-
-<a href="https://clustrmaps.com/site/1by75"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=bny-3q0yDIs2qo4jS9zAESroLWn38Jje2wY9OvPUyrg&cl=ffffff" /></a>
