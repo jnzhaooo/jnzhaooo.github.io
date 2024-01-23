@@ -13,7 +13,7 @@ author_profile: true
 
 
 <h4>Papers</h4>
-1. **J. Zhao**, S. Li and X. Yin. "A unified framework for verification of observational properties for partially-observed discrete-event systems." ***IEEE Transactions on Automatic Control***, accepted and in press, 2024. [[PDF]](https://arxiv.org/pdf/2205.01392.pdf)
+1. **J. Zhao**, S. Li and X. Yin. "A unified framework for verification of observational properties for partially-observed discrete-event systems." ***IEEE Transactions on Automatic Control***, accepted and in press, 2024. [[PDF]](http://jnzhaooo.github.io/files/24TACHyper.pdf)
 1. **J. Zhao**, K. Zhu, S. Li and X. Yin. "To explore or not to explore: Regret-based LTL planning in partially-known environments." ***22nd IFAC World Congress***, pp. 12171-12177, 2023. [[PDF]](http://jnzhaooo.github.io/files/23IFAC-regret.pdf)
 1. **J. Zhao**, S. Wang and X. Yin. "Failure-aware self-diagnostic task planning under temporal logic specifications." ***22nd IFAC World Congress***, pp. 4993-4999, 2023. [[PDF]](http://jnzhaooo.github.io/files/23IFAC-diag.pdf)
 1. **J. Zhao**, K. Zhu, H. Hu, X. Yu, X. Li and H. Wang. "Formation control of networked mobile robots with unknown reference orientation." ***IEEE/ASME Transactions on Mechatronics***, vol. 28, no. 4, pp. 2200–2212, Aug. 2023. [[PDF]](http://jnzhaooo.github.io/files/23TMech.pdf)
