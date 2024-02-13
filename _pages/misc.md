@@ -13,7 +13,6 @@ Academic Services
   * IEEE Transactions on Automation Science and Engineering
   * IEEE/ASME Transactions on Mechatronics
   * IEEE Transactions on Cybernetics
-  * IEEE Transactions on Intelligent Vehicles
   * IEEE Control Systems Letters
   * Transactions of the Institute of Measurement and Control
   * IFAC World Congress
