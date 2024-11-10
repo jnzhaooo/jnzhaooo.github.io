@@ -10,11 +10,14 @@ Academic Services
 ======
 
 * **Reviewer**
+  * IEEE Transactions on Automatic Control
+  * Automatica 
   * IEEE Transactions on Automation Science and Engineering
   * IEEE/ASME Transactions on Mechatronics
   * IEEE Transactions on Intelligent Vehicles
   * IEEE Transactions on Cybernetics
   * IEEE Control Systems Letters
+  * Control Theory and Technology
   * Transactions of the Institute of Measurement and Control
   * IFAC World Congress
   * American Control Conference
