@@ -8,7 +8,6 @@ author_profile: true
 
 <h4>Journal Papers</h4>
 1. **J. Zhao**, K. Zhu, M. Feng, S. Li and X. Yin. "No-regret path planning for temporal logic tasks in partially-known environments." ***International Journal of Robotics Research***, accepted and in press, 2025. 
-1. C. Wang, X. Yu, **J. Zhao**, L. Lindemann and X. Yin. "Sleep when everything looks fine: Self-triggered monitoring for signal temporal logic tasks." [[PDF]](https://arxiv.org/pdf/2311.15531.pdf)
 1. **J. Zhao**, S. Li and X. Yin. "A unified framework for verification of observational properties for partially-observed discrete-event systems." ***IEEE Transactions on Automatic Control***, accepted and in press, 2024. [[PDF]](http://jnzhaooo.github.io/files/24TACHyper.pdf)
 1. **J. Zhao**, K. Zhu, H. Hu, X. Yu, X. Li and H. Wang. "Formation control of networked mobile robots with unknown reference orientation." ***IEEE/ASME Transactions on Mechatronics***, vol. 28, no. 4, pp. 2200–2212, Aug. 2023. [[PDF]](http://jnzhaooo.github.io/files/23TMech.pdf)
 1. **J. Zhao**, X. Li and X. Yu and H. Wang. "Finite-time cooperative control for bearing-defined leader-following formation of multiple double-integrators." ***IEEE Transactions on Cybernetics***, vol. 52, no. 12, pp. 13363–13372, Dec. 2022. [[PDF]](http://jnzhaooo.github.io/files/22TCyber.pdf)
@@ -27,6 +26,6 @@ author_profile: true
 <h4>Ongoing Works</h4>
 
 1. Motion planning of dynamical systems using hyperproperties for signal temporal logics
-1. Semantic-dependence-aided exploration in initially unknown environments under temporal logic specifications
+1. Beyond worst-case: Regret-optimal control of dynamic systems under signal temporal logic specifications
 
 <br />
