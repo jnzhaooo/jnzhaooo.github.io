@@ -10,8 +10,9 @@ Academic Services
 ======
 
 * **Reviewer**
-  * IEEE Transactions on Automatic Control
   * Automatica 
+  * IEEE Transactions on Automatic Control
+  * IEEE Transactions on Control Systems Technology
   * IEEE Transactions on Automation Science and Engineering
   * IEEE/ASME Transactions on Mechatronics
   * IEEE Transactions on Intelligent Vehicles
