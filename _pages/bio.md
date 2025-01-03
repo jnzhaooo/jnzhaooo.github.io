@@ -11,7 +11,7 @@ Education
 
 * **Shanghai Jiao Tong University** <span style="float:right">Shanghai, China</span>
   * School of Electronic Information and Electrical Engineering <span style="float:right">Sept 2019 - Present</span>
-  * Ph.D. in Control Science and Engineering
+  * Ph.D. Student in Control Science and Engineering
   * Supervisor: Xiang Yin
  
 * **Max-Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
