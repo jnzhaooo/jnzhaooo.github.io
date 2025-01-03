@@ -27,4 +27,4 @@ Teaching
 ======
 
 * Teaching Assistant of *Stochastic Methods in Systems and Control* (AU7022H) <span style="float:right">SJTU, Fall 2022/2023</span>
-* Teaching Assistant of *Engineering Economics* (MEM6003) <span style="float:right">SJTU, Fall 2021/2022/2023</span>
+* Teaching Assistant of *Engineering Economics* (MEM6003) <span style="float:right">SJTU, Fall 2021/2022/2023/2024</span>
