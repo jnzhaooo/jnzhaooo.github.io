@@ -13,6 +13,10 @@ Education
   * School of Electronic Information and Electrical Engineering <span style="float:right">Sept 2019 - Present</span>
   * Ph.D. in Control Science and Engineering
   * Supervisor: Xiang Yin
+ 
+* **Max-Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
+  * Visiting Ph.D. Student <span style="float:right">Dec 2024 - Aug 2025</span>
+  * Supervisor: Rupak Majumdar
 
 * **University of Science and Technology of China** <span style="float:right">Hefei, China</span>
   * School of Information Science and Technology <span style="float:right">Sept 2015 - June 2019</span>
