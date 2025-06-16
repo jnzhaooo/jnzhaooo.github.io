@@ -16,6 +16,7 @@ author_profile: true
 <br />
 
 <h4>Conference Papers</h4>
+1. **J. Zhao**, M. Feng, Y. Zhang, S. Wang and X. Yin. "Adaptive visual servoing control barrier function of robotic manipulators with uncalibrated camera." ***IEEE/RSJ International Conference on Intelligent Robots and Systems***, accepted, 2025. [[PDF]](http://jnzhaooo.github.io/files/VSCBF.pdf) [[Video]](https://www.youtube.com/watch?v=PvpHBNnDDbE)
 1. **J. Zhao**, K. Zhu, S. Li and X. Yin. "To explore or not to explore: Regret-based LTL planning in partially-known environments." ***22nd IFAC World Congress***, pp. 12171-12177, 2023. [[PDF]](http://jnzhaooo.github.io/files/23IFAC-regret.pdf)
 1. **J. Zhao**, S. Wang and X. Yin. "Failure-aware self-diagnostic task planning under temporal logic specifications." ***22nd IFAC World Congress***, pp. 4993-4999, 2023. [[PDF]](http://jnzhaooo.github.io/files/23IFAC-diag.pdf)
 1. **J. Zhao**, H. Hu, K. Zhu, X. Yu and H. Wang. "Distributed rendezvous control of networked uncertain robotic systems with bearing measurements." ***IEEE International Conference on Robotics and Automation***, pp. 8829–8835, 2021. [[PDF]](http://jnzhaooo.github.io/files/21ICRA.pdf)
