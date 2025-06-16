@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 
+<h4>Preprints</h4>
+
+1. Motion planning of dynamical systems using hyperproperties for signal temporal logics
+1. Beyond worst-case: Regret-optimal control of dynamic systems under signal temporal logic specifications
+1. Regret-Optimal Supervisory Control of Partially-Known Discrete-Event Systems
+
+<br />
+
+
 <h4>Journal Papers</h4>
 1. **J. Zhao**, K. Zhu, M. Feng, S. Li and X. Yin. "No-regret path planning for temporal logic tasks in partially-known environments." ***The International Journal of Robotics Research***, accepted and in press, 2025. [[PDF]](http://jnzhaooo.github.io/files/25IJRR.pdf)
 1. **J. Zhao**, S. Li and X. Yin. "A unified framework for verification of observational properties for partially-observed discrete-event systems." ***IEEE Transactions on Automatic Control***, vol. 69, no. 7, pp. 4710-4717, July 2024. [[PDF]](http://jnzhaooo.github.io/files/24TAC.pdf)
@@ -24,9 +33,3 @@ author_profile: true
 <br />
 
 
-<h4>Ongoing Works</h4>
-
-1. Motion planning of dynamical systems using hyperproperties for signal temporal logics
-1. Beyond worst-case: Regret-optimal control of dynamic systems under signal temporal logic specifications
-
-<br />
