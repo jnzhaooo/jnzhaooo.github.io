@@ -8,7 +8,7 @@ author_profile: true
 
 <h4>Preprints</h4>
 
-1. Task and Motion Planning of Dynamic Systems using Hyperproperties for Signal Temporal Logics
+1. Task and motion planning of dynamic systems using hyperproperties for signal temporal logics
 1. Beyond worst-case: Regret-optimal control of dynamic systems under signal temporal logic specifications
 1. Regret-optimal supervisory control of partially-known discrete-event systems
 
