@@ -10,7 +10,7 @@ author_profile: true
 
 1. Motion planning of dynamical systems using hyperproperties for signal temporal logics
 1. Beyond worst-case: Regret-optimal control of dynamic systems under signal temporal logic specifications
-1. Regret-Optimal Supervisory Control of Partially-Known Discrete-Event Systems
+1. Regret-optimal supervisory control of partially-known discrete-event systems
 
 <br />
 
