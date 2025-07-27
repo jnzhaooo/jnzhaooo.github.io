@@ -11,6 +11,7 @@ Academic Services
 
 * **Reviewer**
   * International Journal of Robotics Research
+  * IEEE Transactions on Robotics
   * Automatica 
   * IEEE Transactions on Automatic Control
   * IEEE Transactions on Control Systems Technology
