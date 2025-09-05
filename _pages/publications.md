@@ -8,7 +8,8 @@ author_profile: true
 
 <h4>Submitted works</h4>
 
-1. Task and motion planning of dynamic systems using hyperproperties for signal temporal logics
+1. **J. Zhao**, B. Ye, X. Yu, R. Majumdar and X. Yin. "Task and motion planning of dynamic systems using hyperproperties for signal temporal logics." [[PDF]](https://arxiv.org/pdf/2509.02184)
+ 
 
 <br />
 
