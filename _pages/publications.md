@@ -6,16 +6,10 @@ author_profile: true
 ---
 
 
-<h4>Submitted works</h4>
-
-1. **J. Zhao**, B. Ye, X. Yu, R. Majumdar and X. Yin. "Task and motion planning of dynamic systems using hyperproperties for signal temporal logics." [[PDF]](https://arxiv.org/pdf/2509.02184)
- 
-
-<br />
-
 
 <h4>Journal Papers</h4>
-1. **J. Zhao**, K. Zhu, M. Feng, S. Li and X. Yin. "No-regret path planning for temporal logic tasks in partially-known environments." ***The International Journal of Robotics Research***, accepted and in press, 2025. [[PDF]](http://jnzhaooo.github.io/files/25IJRR.pdf)
+1. **J. Zhao**, B. Ye, X. Yu, R. Majumdar and X. Yin. "Task and motion planning of dynamic systems using hyperproperties for signal temporal logics." ***Nonlinear Analysis: Hybrid Systems***, conditionally accepted, 2026. [[PDF]](https://arxiv.org/pdf/2509.02184)
+1. **J. Zhao**, K. Zhu, M. Feng, S. Li and X. Yin. "No-regret path planning for temporal logic tasks in partially-known environments." ***The International Journal of Robotics Research***, vol. 44, no. 9, pp. 1526-1552, August 2025. [[PDF]](http://jnzhaooo.github.io/files/25IJRR.pdf)
 1. **J. Zhao**, S. Li and X. Yin. "A unified framework for verification of observational properties for partially-observed discrete-event systems." ***IEEE Transactions on Automatic Control***, vol. 69, no. 7, pp. 4710-4717, July 2024. [[PDF]](http://jnzhaooo.github.io/files/24TAC.pdf)
 1. **J. Zhao**, K. Zhu, H. Hu, X. Yu, X. Li and H. Wang. "Formation control of networked mobile robots with unknown reference orientation." ***IEEE/ASME Transactions on Mechatronics***, vol. 28, no. 4, pp. 2200–2212, Aug. 2023. [[PDF]](http://jnzhaooo.github.io/files/23TMech.pdf)
 1. **J. Zhao**, X. Li and X. Yu and H. Wang. "Finite-time cooperative control for bearing-defined leader-following formation of multiple double-integrators." ***IEEE Transactions on Cybernetics***, vol. 52, no. 12, pp. 13363–13372, Dec. 2022. [[PDF]](http://jnzhaooo.github.io/files/22TCyber.pdf)
