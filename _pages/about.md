@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a postdoctoral researcher at Max-Planck Institute for Software Systems, working with Prof. [Rupak Majumdar](https://people.mpi-sws.org/~rupak/) and [Sadegh Soudjani](https://hycodev.com/ssoudjani).
+* I am a postdoctoral researcher at Max-Planck Institute for Software Systems, working with Prof. [Rupak Majumdar](https://people.mpi-sws.org/~rupak/) and Prof. [Sadegh Soudjani](https://hycodev.com/ssoudjani).
 * I received my Ph.D. degree in Control Science and Engineering at Shanghai Jiao Tong University ([SJTU](https://en.sjtu.edu.cn/)) in 2025, supervised by Prof. [Xiang Yin](https://xiangyin.sjtu.edu.cn/).
 * Previously, I received my B.Eng. degree in Automation at University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2019.
 * I was born in 1997, Shanxi Province, China. I grew up in Changzhi.
