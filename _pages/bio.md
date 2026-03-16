@@ -6,17 +6,24 @@ author_profile: true
 
 {% include base_path %}
 
+Experience
+======
+
+* **Max-Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
+  * Visiting Ph.D. Student <span style="float:right">April 2025 - present</span>
+  * Supervisor: Prof. Rupak Majumdar, Prof. Sadegh Soudjani
+
 Education
 ======
 
 * **Shanghai Jiao Tong University** <span style="float:right">Shanghai, China</span>
-  * School of Electronic Information and Electrical Engineering <span style="float:right">Sept 2019 - Present</span>
+  * School of Electronic Information and Electrical Engineering <span style="float:right">Sept 2019 - Dec 2025</span>
   * Ph.D. Student in Control Science and Engineering
-  * Supervisor: Xiang Yin
+  * Supervisor: Prof. Xiang Yin
  
 * **Max-Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
   * Visiting Ph.D. Student <span style="float:right">Dec 2024 - Aug 2025</span>
-  * Supervisor: Rupak Majumdar
+  * Supervisor: Prof. Rupak Majumdar
 
 * **University of Science and Technology of China** <span style="float:right">Hefei, China</span>
   * School of Information Science and Technology <span style="float:right">Sept 2015 - June 2019</span>
