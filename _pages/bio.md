@@ -10,7 +10,7 @@ Experience
 ======
 
 * **Max-Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
-  * Visiting Ph.D. Student <span style="float:right">April 2025 - present</span>
+  * Postdoctoral researcher <span style="float:right">April 2025 - present</span>
   * Supervisor: Prof. Rupak Majumdar, Prof. Sadegh Soudjani
 
 Education
