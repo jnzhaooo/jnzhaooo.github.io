@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h4>Journal Papers</h4>
+<h4>Preprints</h4>
 1. **J. Zhao**, Z. Cai and X. Yin. "Output-Feedback Safe Control of Discrete-Time Stochastic Systems with Chance Constraints." [[PDF]](https://arxiv.org/pdf/2604.12956)
 
 <br />
