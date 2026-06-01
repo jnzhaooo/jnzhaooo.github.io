@@ -9,7 +9,7 @@ author_profile: true
 Experience
 ======
 
-* **Max-Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
+* **Max Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
   * Postdoctoral researcher <span style="float:right">April 2025 - present</span>
   * Supervisor: Prof. Rupak Majumdar, Prof. Sadegh Soudjani
 
@@ -21,7 +21,7 @@ Education
   * Ph.D. Student in Control Science and Engineering
   * Supervisor: Prof. Xiang Yin
  
-* **Max-Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
+* **Max Planck Institute for Software Systems** <span style="float:right">Kaiserslautern, Germany</span>
   * Visiting Ph.D. Student <span style="float:right">Dec 2024 - Aug 2025</span>
   * Supervisor: Prof. Rupak Majumdar
 
