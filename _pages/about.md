@@ -15,5 +15,3 @@ redirect_from:
 * I am broadly interested in system control and formal methods. My current research interests include the following aspects:
   * Formal verification of cyber-physical systems
   * Decision-making in dynamic environments
-  * Perception-based control for autonomous systems
-
