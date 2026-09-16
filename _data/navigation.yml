@@ -1,14 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
     
   - title: "Biography"
     url: /bio/ 
     
-  - title: "Talks"
-    url: /talks/   
-    
-  - title: "Misc"
-    url: /misc/
-        
