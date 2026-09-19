@@ -13,5 +13,5 @@ redirect_from:
 * Previously, I received my B.Eng. degree in Automation at University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2019.
 * I was born in 1997, Shanxi Province, China. I grew up in Changzhi.
 * I am broadly interested in system control and formal methods. My current research interests include the following aspects:
-  * Formal verification of cyber-physical systems
+  * Formal verification of autonomous systems
   * Decision-making in dynamic environments
